@@ -15,4 +15,4 @@ for i in range(t) :
 	clock = input()
 
 	print(sum(clock))
-
+cdvfrvdfdfgtvevffdddddd
