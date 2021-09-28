@@ -16,3 +16,4 @@ for i in range(t) :
 
 	print(sum(clock))
 
+dcedcedcdefdcd
